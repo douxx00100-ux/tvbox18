@@ -2,22 +2,10 @@
   "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
   "sites": [
     {
-      "key": "大象影视",
-      "name": "🐬[伦理]大象影视.py(关梯)｜🔞",
-      "type": 3,
-      "api": "./py/大象影视🔞TG @hshsjk9.py"
-    },
-    {
       "key": "国色天香",
       "name": "🐬[成人]国色天香.py｜🔞",
       "type": 3,
       "api": "./py/国色天香🔞TG @hshsjk9.py"
-    },
-    {
-      "key": "橘子资源",
-      "name": "🐬[成人]橘子资源.py｜🔞",
-      "type": 3,
-      "api": "./py/橘子资源🔞TG @hshsjk9.py"
     },
     {
       "key": "小学妹",
@@ -38,34 +26,10 @@
       "api": "./py/笔盒🔞TG @hshsjk9.py"
     },
     {
-      "key": "杏吧视频",
-      "name": "🐬[成人]杏吧视频.py｜🔞",
-      "type": 3,
-      "api": "./py/杏吧视频🔞TG @hshsjk9.py"
-    },
-    {
-      "key": "口爆大全AV",
-      "name": "🐬[成人]口爆大全AV.py｜🔞",
-      "type": 3,
-      "api": "./py/口爆大全AV🔞TG @hshsjk9.py"
-    },
-    {
-      "key": "one点播",
-      "name": "🐬[成人]one点播.py(关梯)｜🔞",
-      "type": 3,
-      "api": "./py/one🔞TG @hshsjk9.py"
-    },
-    {
       "key": "拍摄现场",
       "name": "🐬[成人]拍摄现场.py｜🔞",
       "type": 3,
       "api": "./py/拍摄现场🔞.py"
-    },
-    {
-      "key": "阴阳宝鉴",
-      "name": "🐬[成人]阴阳宝鉴.py｜🔞",
-      "type": 3,
-      "api": "./py/阴阳宝鉴🔞.py"
     },
     {
       "key": "麻豆影院",
@@ -78,12 +42,6 @@
       "name": "🐬[成人]UU视视APP.py｜🔞",
       "type": 3,
       "api": "./py/UU视视APP🔞.py"
-    },
-    {
-      "key": "野马中文",
-      "name": "🐬[成人]野马中文.py｜🔞",
-      "type": 3,
-      "api": "./py/野马中文🔞.py"
     },
     {
       "key": "乱伦伊甸园",
@@ -108,12 +66,6 @@
       "name": "🐬[成人]极品少女.py｜🔞",
       "type": 3,
       "api": "./py/极品少女🔞.py"
-    },
-    {
-      "key": "乱伦仓库",
-      "name": "🐬[成人]乱伦仓库.py｜🔞",
-      "type": 3,
-      "api": "./py/乱伦仓库🔞.py"
     },
     {
       "key": "乱伦48小时",
@@ -182,12 +134,6 @@
       "api": "./py/熊猫视频.py"
     },
     {
-      "key": "lyt",
-      "name": "🐬[成人]撸一天.py｜🔞",
-      "type": 3,
-      "api": "./py/撸一天.py"
-    },
-    {
       "key": "scpd",
       "name": "🐬[成人]香肠派对.py｜🔞",
       "type": 3,
@@ -204,12 +150,6 @@
       "name": "🐬[成人]8X8X.py｜🔞",
       "type": 3,
       "api": "./py/8X8X.py"
-    },
-    {
-      "key": "Jable",
-      "name": "🐬[成人]Jable.py｜🔞",
-      "type": 3,
-      "api": "./py/Jable.py"
     },
     {
       "key": "AdultpornaAV",
